@@ -3,7 +3,7 @@
 
 ### ☺️ FrontEnd Developer<br/>
 
-### 📒 [My Blog](https://velog.io/@zeon8080)
+### 👉🏻 [My Blog](https://velog.io/@zeon8080) 👈🏻
 
 ### ✏️ Stacks <br/>
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
